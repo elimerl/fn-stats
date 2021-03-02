@@ -46,6 +46,8 @@ fetch("https://db.fortnitetracker.com/weapons/")
     $("th").each((i: number, elem: any) => {
       if (i > 0) {
         let headerName = elem.children[0].data;
+        console.log(headerName, $.html(elem.parentElement));
+
         if (headerName === "Weapon") {
           headers.push("image");
           headers.push("name");
@@ -104,6 +106,19 @@ fetch("https://db.fortnitetracker.com/weapons/")
         default:
           weapon[headers[columnIndex]] = cellData;
       }
+    });
+    weaponData = weaponData.map((data) => {
+      return {
+        dps: data.damage,
+        damage: data.envDamage,
+        envDamage: data.fireRate,
+        fireRate: data.magazine,
+        magazine: data.reloadTime,
+        reloadTime: data["undefined"],
+        rarity: data.dps,
+        type: data.rarity,
+        image: data.image,
+      };
     });
     let fileName = path.join(__dirname, `../statistics.json`);
     fs.writeFile(
