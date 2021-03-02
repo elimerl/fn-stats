@@ -93,7 +93,7 @@ fetch("https://db.fortnitetracker.com/weapons/")
         case cellTypes.NAME:
           weapon[headers[columnIndex]] = {
             ...cellData,
-            name: cellData.text.trim(),
+            text: cellData.text.trim(),
           };
           break;
         case cellTypes.RELOAD_TIME:
