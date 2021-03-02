@@ -1,478 +1,478 @@
 [
   {
     "image": "https://db.fortnitetracker.com/images/caaa8a99edbd0468c559d135459f3d597f9dc97bbdb98d3a202361fbc8546625-small.png",
-    "name": {
+    "rarity": {
       "text": "Assault Rifle ",
       "url": "https://db.fortnitetracker.com/weapons/assault-rifle---common"
     },
-    "rarity": "Common",
-    "dps": "165",
-    "damage": "30",
+    "dps": "Common",
+    "damage": "165",
     "envDamage": "30",
-    "fireRate": "5.5",
-    "magazine": "30",
-    "reloadTime": "2.5s"
+    "fireRate": "30",
+    "magazine": "5.5",
+    "reloadTime": "30",
+    "undefined": "2.5s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/3e9f0f86731755908885e80ba83eca2d66cd6a8dacfec623f18818924a27ff21-small.png",
-    "name": {
+    "rarity": {
       "text": "Assault Rifle ",
       "url": "https://db.fortnitetracker.com/weapons/assault-rifle---common"
     },
-    "rarity": "Uncommon",
-    "dps": "170.5",
-    "damage": "31",
+    "dps": "Uncommon",
+    "damage": "170.5",
     "envDamage": "31",
-    "fireRate": "5.5",
-    "magazine": "30",
-    "reloadTime": "2.4s"
+    "fireRate": "31",
+    "magazine": "5.5",
+    "reloadTime": "30",
+    "undefined": "2.4s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/10abca0982068f26f7bee9ded76f435c2e893381965671528ed4a6f74948ea15-small.png",
-    "name": {
+    "rarity": {
       "text": "Assault Rifle ",
       "url": "https://db.fortnitetracker.com/weapons/assault-rifle---rare"
     },
-    "rarity": "Rare",
-    "dps": "181.5",
-    "damage": "33",
+    "dps": "Rare",
+    "damage": "181.5",
     "envDamage": "33",
-    "fireRate": "5.5",
-    "magazine": "30",
-    "reloadTime": "2.3s"
+    "fireRate": "33",
+    "magazine": "5.5",
+    "reloadTime": "30",
+    "undefined": "2.3s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/f7f313bf23af84e6a4e689a6f77d6e841b37c2afcc49c89ea2994bc9b6ffb11c-small.png",
-    "name": {
+    "rarity": {
       "text": "Assault Rifle ",
       "url": "https://db.fortnitetracker.com/weapons/assault-rifle---epic"
     },
-    "rarity": "Epic",
-    "dps": "192.5",
-    "damage": "35",
+    "dps": "Epic",
+    "damage": "192.5",
     "envDamage": "35",
-    "fireRate": "5.5",
-    "magazine": "30",
-    "reloadTime": "2.2s"
+    "fireRate": "35",
+    "magazine": "5.5",
+    "reloadTime": "30",
+    "undefined": "2.2s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/0938d30294007b90aab51fecfbb475d68ac8c3d84fdbbfd348b5d77d0d207ef9-small.png",
-    "name": {
+    "rarity": {
       "text": "Assault Rifle ",
       "url": "https://db.fortnitetracker.com/weapons/assault-rifle---legendary"
     },
-    "rarity": "Legendary",
-    "dps": "198",
-    "damage": "36",
+    "dps": "Legendary",
+    "damage": "198",
     "envDamage": "36",
-    "fireRate": "5.5",
-    "magazine": "30",
-    "reloadTime": "2.1s"
+    "fireRate": "36",
+    "magazine": "5.5",
+    "reloadTime": "30",
+    "undefined": "2.1s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/709a910022f4c071a919c8110ee8171cf295c5e240eabf67e959d51315229472-small.png",
-    "name": {
+    "rarity": {
       "text": "Bolt-Action Sniper Rifle",
       "url": "https://db.fortnitetracker.com/weapons/bolt-action-sniper-rifle-rare"
     },
-    "rarity": "Rare",
-    "dps": "34.7",
-    "damage": "105",
+    "dps": "Rare",
+    "damage": "34.7",
     "envDamage": "105",
-    "fireRate": "0.33",
-    "magazine": "1",
-    "reloadTime": "3s"
+    "fireRate": "105",
+    "magazine": "0.33",
+    "reloadTime": "1",
+    "undefined": "3s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/329dd4132c31ac16971810634bbfc44851e0e753e1ab0a586932c24af2acce36-small.png",
-    "name": {
+    "rarity": {
       "text": "Bolt-Action Sniper Rifle",
       "url": "https://db.fortnitetracker.com/weapons/bolt-action-sniper-rifle-epic"
     },
-    "rarity": "Epic",
-    "dps": "36.3",
-    "damage": "110",
+    "dps": "Epic",
+    "damage": "36.3",
     "envDamage": "110",
-    "fireRate": "0.33",
-    "magazine": "1",
-    "reloadTime": "2.3s"
+    "fireRate": "110",
+    "magazine": "0.33",
+    "reloadTime": "1",
+    "undefined": "2.3s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/3a1c6922e228a0378b0be87604ecdb6a1bd10b5ed52b34f7e73cbc1a14b26260-small.png",
-    "name": {
+    "rarity": {
       "text": "Bolt-Action Sniper Rifle",
       "url": "https://db.fortnitetracker.com/weapons/bolt-action-sniper-rifle-legendary"
     },
-    "rarity": "Legendary",
-    "dps": "38.3",
-    "damage": "116",
+    "dps": "Legendary",
+    "damage": "38.3",
     "envDamage": "116",
-    "fireRate": "0.33",
-    "magazine": "1",
-    "reloadTime": "2.5s"
+    "fireRate": "116",
+    "magazine": "0.33",
+    "reloadTime": "1",
+    "undefined": "2.5s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/3d7bffd26a764fa0f5f33b175b9058eb52ff6f598ed4fe72ab0462f6fb696394-small.png",
-    "name": {
+    "rarity": {
       "text": "Burst Assault Rifle",
       "url": "https://db.fortnitetracker.com/weapons/burst-assault-rifle-common"
     },
-    "rarity": "Common",
-    "dps": "85.2",
-    "damage": "31",
+    "dps": "Common",
+    "damage": "85.2",
     "envDamage": "31",
-    "fireRate": "2.75",
-    "magazine": "20",
-    "reloadTime": "2.9s"
+    "fireRate": "31",
+    "magazine": "2.75",
+    "reloadTime": "20",
+    "undefined": "2.9s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/aa5716d4ee2153e80fc257aac3521451e76b249192bcbdb6a0222eed176c320b-small.png",
-    "name": {
+    "rarity": {
       "text": "Burst Assault Rifle",
       "url": "https://db.fortnitetracker.com/weapons/burst-assault-rifle-common"
     },
-    "rarity": "Uncommon",
-    "dps": "88",
-    "damage": "32",
+    "dps": "Uncommon",
+    "damage": "88",
     "envDamage": "32",
-    "fireRate": "2.75",
-    "magazine": "20",
-    "reloadTime": "2.7s"
+    "fireRate": "32",
+    "magazine": "2.75",
+    "reloadTime": "20",
+    "undefined": "2.7s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/e21d6a6062fbf9703fc2cdc00faeae911c34f92a2757cb34115b8f44b75f8ba5-small.png",
-    "name": {
+    "rarity": {
       "text": "Burst Assault Rifle",
       "url": "https://db.fortnitetracker.com/weapons/burst-assault-rifle-rare"
     },
-    "rarity": "Rare",
-    "dps": "93.5",
-    "damage": "34",
+    "dps": "Rare",
+    "damage": "93.5",
     "envDamage": "34",
-    "fireRate": "2.75",
-    "magazine": "20",
-    "reloadTime": "2.6s"
+    "fireRate": "34",
+    "magazine": "2.75",
+    "reloadTime": "20",
+    "undefined": "2.6s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/f6a899b7417c5c80522baa4bbec5aa4b146fe26abc6248105eaa18a6870439be-small.png",
-    "name": {
+    "rarity": {
       "text": "Burst Assault Rifle",
       "url": "https://db.fortnitetracker.com/weapons/burst-assault-rifle-epic"
     },
-    "rarity": "Epic",
-    "dps": "99",
-    "damage": "36",
+    "dps": "Epic",
+    "damage": "99",
     "envDamage": "36",
-    "fireRate": "2.75",
-    "magazine": "20",
-    "reloadTime": "2.5s"
+    "fireRate": "36",
+    "magazine": "2.75",
+    "reloadTime": "20",
+    "undefined": "2.5s"
   },
   {
-    "image": "\n ",
-    "name": {
+    "image": "https://db.fortnitetracker.com/images/933b7d8cc4a7ce54cbfd58cefbdd7caa0b70c7b210de438ec55a942b1c2ffc59-small.png",
+    "rarity": {
       "text": "Burst Assault Rifle",
       "url": "https://db.fortnitetracker.com/weapons/burst-assault-rifle-legendary"
     },
-    "rarity": "Legendary",
-    "dps": "101.8",
-    "damage": "37",
+    "dps": "Legendary",
+    "damage": "101.8",
     "envDamage": "37",
-    "fireRate": "2.75",
-    "magazine": "20",
-    "reloadTime": "2.3s"
+    "fireRate": "37",
+    "magazine": "2.75",
+    "reloadTime": "20",
+    "undefined": "2.3s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/8f36413945d97ab9825a086d3c861d1b87331510e9849c8bc481f2e029d10cd2-small.png",
-    "name": {
+    "rarity": {
       "text": "Charge Shotgun",
       "url": "https://db.fortnitetracker.com/weapons/charge-shotgun-common"
     },
-    "rarity": "Common",
-    "dps": "68",
-    "damage": "80",
-    "envDamage": "4.9",
-    "fireRate": "0.85",
-    "magazine": "3",
-    "reloadTime": "4.8s"
+    "dps": "Common",
+    "damage": "68",
+    "envDamage": "80",
+    "fireRate": "4.9",
+    "magazine": "0.85",
+    "reloadTime": "3",
+    "undefined": "4.8s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/fd2ddd29a3ef9d3decdfb4b3c4928fd72bdc91768b6ebd5475aac032e2606860-small.png",
-    "name": {
+    "rarity": {
       "text": "Charge Shotgun",
       "url": "https://db.fortnitetracker.com/weapons/charge-shotgun-common"
     },
-    "rarity": "Uncommon",
-    "dps": "72.2",
-    "damage": "85",
-    "envDamage": "5.2",
-    "fireRate": "0.85",
-    "magazine": "3",
-    "reloadTime": "4.6s"
+    "dps": "Uncommon",
+    "damage": "72.2",
+    "envDamage": "85",
+    "fireRate": "5.2",
+    "magazine": "0.85",
+    "reloadTime": "3",
+    "undefined": "4.6s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/1cd411791a0fbbb61fc032c9e9651f89ca9daed6bced969587d7965e3539e413-small.png",
-    "name": {
+    "rarity": {
       "text": "Charge Shotgun",
       "url": "https://db.fortnitetracker.com/weapons/charge-shotgun-rare"
     },
-    "rarity": "Rare",
-    "dps": "75.7",
-    "damage": "89",
-    "envDamage": "5.5",
-    "fireRate": "0.85",
-    "magazine": "3",
-    "reloadTime": "4.4s"
+    "dps": "Rare",
+    "damage": "75.7",
+    "envDamage": "89",
+    "fireRate": "5.5",
+    "magazine": "0.85",
+    "reloadTime": "3",
+    "undefined": "4.4s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/d83efad98a53ab4f1f10ae9c27849e2ff4c7936da9968607dc49812357b45644-small.png",
-    "name": {
+    "rarity": {
       "text": "Charge Shotgun",
       "url": "https://db.fortnitetracker.com/weapons/charge-shotgun-epic"
     },
-    "rarity": "Epic",
-    "dps": "79.1",
-    "damage": "93",
-    "envDamage": "5.7",
-    "fireRate": "0.85",
-    "magazine": "4",
-    "reloadTime": "4.2s"
+    "dps": "Epic",
+    "damage": "79.1",
+    "envDamage": "93",
+    "fireRate": "5.7",
+    "magazine": "0.85",
+    "reloadTime": "4",
+    "undefined": "4.2s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/067e74849db2f9dff089d747b156cf1e38a0591b70aee49d77de23813eb2a9fa-small.png",
-    "name": {
+    "rarity": {
       "text": "Charge Shotgun",
       "url": "https://db.fortnitetracker.com/weapons/charge-shotgun-legendary"
     },
-    "rarity": "Legendary",
-    "dps": "83.3",
-    "damage": "98",
-    "envDamage": "6",
-    "fireRate": "0.85",
-    "magazine": "4",
-    "reloadTime": "4s"
+    "dps": "Legendary",
+    "damage": "83.3",
+    "envDamage": "98",
+    "fireRate": "6",
+    "magazine": "0.85",
+    "reloadTime": "4",
+    "undefined": "4s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/9688f41e5f64592e9d773e879d41272e872fb37dd5bf7ac3bc1b9124a57f156c-small.png",
-    "name": {
+    "rarity": {
       "text": "Crash Pad",
       "url": "https://db.fortnitetracker.com/weapons/crash-pad-rare"
     },
-    "rarity": "Rare",
-    "dps": "0",
+    "dps": "Rare",
     "damage": "0",
-    "envDamage": "375",
-    "fireRate": "1",
-    "magazine": "0",
-    "reloadTime": "0s"
+    "envDamage": "0",
+    "fireRate": "375",
+    "magazine": "1",
+    "reloadTime": "0",
+    "undefined": "0s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/ab37b2574e672dfdc56033ce5894aab973713c66343eb580ce7f483f962bcfee-small.png",
-    "name": {
+    "rarity": {
       "text": "Grenade",
       "url": "https://db.fortnitetracker.com/weapons/grenade-common"
     },
-    "rarity": "Common",
-    "dps": "0",
+    "dps": "Common",
     "damage": "0",
-    "envDamage": "375",
-    "fireRate": "1",
-    "magazine": "0",
-    "reloadTime": "0s"
+    "envDamage": "0",
+    "fireRate": "375",
+    "magazine": "1",
+    "reloadTime": "0",
+    "undefined": "0s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/18764d45b95a9b4e490bb96d4e998edbd1e2f23486279988b6bcb4f572303ef3-small.png",
-    "name": {
+    "rarity": {
       "text": "Hunting Rifle",
       "url": "https://db.fortnitetracker.com/weapons/hunting-rifle-common"
     },
-    "rarity": "Uncommon",
-    "dps": "68.8",
-    "damage": "86",
+    "dps": "Uncommon",
+    "damage": "68.8",
     "envDamage": "86",
-    "fireRate": "0.8",
-    "magazine": "1",
-    "reloadTime": "1.9s"
+    "fireRate": "86",
+    "magazine": "0.8",
+    "reloadTime": "1",
+    "undefined": "1.9s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/a5aab6bb0ff667baa672bb12af1b5af8dd36ce00d483aeb2eaeefe486eaf8e7d-small.png",
-    "name": {
+    "rarity": {
       "text": "Hunting Rifle",
       "url": "https://db.fortnitetracker.com/weapons/hunting-rifle-rare"
     },
-    "rarity": "Rare",
-    "dps": "72.8",
-    "damage": "91",
+    "dps": "Rare",
+    "damage": "72.8",
     "envDamage": "91",
-    "fireRate": "0.8",
-    "magazine": "1",
-    "reloadTime": "1.8s"
+    "fireRate": "91",
+    "magazine": "0.8",
+    "reloadTime": "1",
+    "undefined": "1.8s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/f1b1aabbbafda6a896fd7485ea2fd4c1c0e3acf0bc33a7545d6bd7025b7b3566-small.png",
-    "name": {
+    "rarity": {
       "text": "Hunting Rifle",
       "url": "https://db.fortnitetracker.com/weapons/hunting-rifle-epic"
     },
-    "rarity": "Epic",
-    "dps": "76.8",
-    "damage": "96",
+    "dps": "Epic",
+    "damage": "76.8",
     "envDamage": "96",
-    "fireRate": "0.8",
-    "magazine": "1",
-    "reloadTime": "1.7s"
+    "fireRate": "96",
+    "magazine": "0.8",
+    "reloadTime": "1",
+    "undefined": "1.7s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/8c906ff72da5f2c5524ac33a21cb1a1180a33ea9c109a1ce31c926c486be62cb-small.png",
-    "name": {
+    "rarity": {
       "text": "Hunting Rifle",
       "url": "https://db.fortnitetracker.com/weapons/hunting-rifle-legendary"
     },
-    "rarity": "Legendary",
-    "dps": "80",
-    "damage": "100",
+    "dps": "Legendary",
+    "damage": "80",
     "envDamage": "100",
-    "fireRate": "0.8",
-    "magazine": "1",
-    "reloadTime": "1.6s"
+    "fireRate": "100",
+    "magazine": "0.8",
+    "reloadTime": "1",
+    "undefined": "1.6s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/b861d8802f0c0687e27347ca004458dedcfcc5889b3cfe6aaa6c8838f259abe6-small.png",
-    "name": {
+    "rarity": {
       "text": "Pistol",
       "url": "https://db.fortnitetracker.com/weapons/pistol-common"
     },
-    "rarity": "Common",
-    "dps": "162",
-    "damage": "24",
+    "dps": "Common",
+    "damage": "162",
     "envDamage": "24",
-    "fireRate": "6.75",
-    "magazine": "16",
-    "reloadTime": "1.5s"
+    "fireRate": "24",
+    "magazine": "6.75",
+    "reloadTime": "16",
+    "undefined": "1.5s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/8cce8566be5e127f00ea8943d6d3374600cf0de265ef656997180ddf7b951907-small.png",
-    "name": {
+    "rarity": {
       "text": "Pistol",
       "url": "https://db.fortnitetracker.com/weapons/pistol-common"
     },
-    "rarity": "Uncommon",
-    "dps": "168.8",
-    "damage": "25",
+    "dps": "Uncommon",
+    "damage": "168.8",
     "envDamage": "25",
-    "fireRate": "6.75",
-    "magazine": "16",
-    "reloadTime": "1.5s"
+    "fireRate": "25",
+    "magazine": "6.75",
+    "reloadTime": "16",
+    "undefined": "1.5s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/ef1b1542fe934bd325985622ac88bfe8eb932feb90a4dad4a03c385b487eac88-small.png",
-    "name": {
+    "rarity": {
       "text": "Pistol",
       "url": "https://db.fortnitetracker.com/weapons/pistol-rare"
     },
-    "rarity": "Rare",
-    "dps": "175.5",
-    "damage": "26",
+    "dps": "Rare",
+    "damage": "175.5",
     "envDamage": "26",
-    "fireRate": "6.75",
-    "magazine": "16",
-    "reloadTime": "1.4s"
+    "fireRate": "26",
+    "magazine": "6.75",
+    "reloadTime": "16",
+    "undefined": "1.4s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/ddb8e85dd4158923fa31234f3b46c655b7543c4168075a81670801688424fae0-small.png",
-    "name": {
+    "rarity": {
       "text": "Pistol",
       "url": "https://db.fortnitetracker.com/weapons/pistol-epic"
     },
-    "rarity": "Epic",
-    "dps": "189",
-    "damage": "28",
+    "dps": "Epic",
+    "damage": "189",
     "envDamage": "28",
-    "fireRate": "6.75",
-    "magazine": "16",
-    "reloadTime": "1.3s"
+    "fireRate": "28",
+    "magazine": "6.75",
+    "reloadTime": "16",
+    "undefined": "1.3s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/1ac9e4d683f1e8fdbe7d333c238a519ae917a77cc8b1acf6925cbe1a8e495ac2-small.png",
-    "name": {
+    "rarity": {
       "text": "Pistol",
       "url": "https://db.fortnitetracker.com/weapons/pistol-legendary"
     },
-    "rarity": "Legendary",
-    "dps": "195.8",
-    "damage": "29",
+    "dps": "Legendary",
+    "damage": "195.8",
     "envDamage": "29",
-    "fireRate": "6.75",
-    "magazine": "16",
-    "reloadTime": "1.3s"
+    "fireRate": "29",
+    "magazine": "6.75",
+    "reloadTime": "16",
+    "undefined": "1.3s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/c5ed386fc308c4563a1e3b26ecc5a97effbcbcb0844d0587a11a46490871d950-small.png",
-    "name": {
+    "rarity": {
       "text": "Tactical Shotgun",
       "url": "https://db.fortnitetracker.com/weapons/tactical-shotgun-common"
     },
-    "rarity": "Common",
-    "dps": "102",
-    "damage": "68",
-    "envDamage": "5",
-    "fireRate": "1.5",
-    "magazine": "8",
-    "reloadTime": "6.3s"
+    "dps": "Common",
+    "damage": "102",
+    "envDamage": "68",
+    "fireRate": "5",
+    "magazine": "1.5",
+    "reloadTime": "8",
+    "undefined": "6.3s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/33737a42fbd626ab76a00655ebc465b5491bd1243746eff03020844e19c6479e-small.png",
-    "name": {
+    "rarity": {
       "text": "Tactical Shotgun",
       "url": "https://db.fortnitetracker.com/weapons/tactical-shotgun-common"
     },
-    "rarity": "Uncommon",
-    "dps": "106.5",
-    "damage": "71",
-    "envDamage": "5.2",
-    "fireRate": "1.5",
-    "magazine": "8",
-    "reloadTime": "6s"
+    "dps": "Uncommon",
+    "damage": "106.5",
+    "envDamage": "71",
+    "fireRate": "5.2",
+    "magazine": "1.5",
+    "reloadTime": "8",
+    "undefined": "6s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/ceea2b60e7e277f4027e47ae73f9e51f92f5db63b2e85ac0c149e899a0e6b641-small.png",
-    "name": {
+    "rarity": {
       "text": "Tactical Shotgun",
       "url": "https://db.fortnitetracker.com/weapons/tactical-shotgun-rare"
     },
-    "rarity": "Rare",
-    "dps": "112.5",
-    "damage": "75",
-    "envDamage": "5.5",
-    "fireRate": "1.5",
-    "magazine": "8",
-    "reloadTime": "5.7s"
+    "dps": "Rare",
+    "damage": "112.5",
+    "envDamage": "75",
+    "fireRate": "5.5",
+    "magazine": "1.5",
+    "reloadTime": "8",
+    "undefined": "5.7s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/7549955186345f586e7c3a50123b5c741384c7ffc729d3ad33257e80d728b72d-small.png",
-    "name": {
+    "rarity": {
       "text": "Tactical Shotgun",
       "url": "https://db.fortnitetracker.com/weapons/tactical-shotgun-epic"
     },
-    "rarity": "Epic",
-    "dps": "118.5",
-    "damage": "79",
-    "envDamage": "7.5",
-    "fireRate": "1.5",
-    "magazine": "8",
-    "reloadTime": "5.4s"
+    "dps": "Epic",
+    "damage": "118.5",
+    "envDamage": "79",
+    "fireRate": "7.5",
+    "magazine": "1.5",
+    "reloadTime": "8",
+    "undefined": "5.4s"
   },
   {
     "image": "https://db.fortnitetracker.com/images/66ba3a1b4c5ddb62998682f9969213a908f997f974270d5bb80d3a29e924fdc1-small.png",
-    "name": {
+    "rarity": {
       "text": "Tactical Shotgun",
       "url": "https://db.fortnitetracker.com/weapons/tactical-shotgun-legendary"
     },
-    "rarity": "Legendary",
-    "dps": "124.5",
-    "damage": "83",
-    "envDamage": "7.8",
-    "fireRate": "1.5",
-    "magazine": "8",
-    "reloadTime": "5.1s"
+    "dps": "Legendary",
+    "damage": "124.5",
+    "envDamage": "83",
+    "fireRate": "7.8",
+    "magazine": "1.5",
+    "reloadTime": "8",
+    "undefined": "5.1s"
   }
 ]
