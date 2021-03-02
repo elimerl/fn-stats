@@ -46,7 +46,6 @@ fetch("https://db.fortnitetracker.com/weapons/")
     $("th").each((i: number, elem: any) => {
       if (i > 0) {
         let headerName = elem.children[0].data;
-        console.log(headerName, $.html(elem.parentElement));
 
         if (headerName === "Weapon") {
           headers.push("image");
