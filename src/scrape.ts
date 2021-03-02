@@ -5,7 +5,7 @@ import fs from "fs";
 let headers: any = [];
 let weaponData: any = [];
 
-let dbUrl = "https:db.fortnitetracker.com";
+let dbUrl = "https://db.fortnitetracker.com";
 
 let cellTypes = {
   IMAGE: 0,
@@ -39,7 +39,7 @@ function sanitizeHeaderName(headerName: string): string {
   return newHeaderName;
 }
 
-fetch("https:db.fortnitetracker.com/weapons/")
+fetch("https://db.fortnitetracker.com/weapons/")
   .then((res) => res.text())
   .then((_html) => {
     const $ = cheerio.load(_html);
