@@ -23,8 +23,10 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add statistics.json
           git commit -m "Update stats") && exit 0
+        continue-on-error: true
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
+          continue-on-error: true
